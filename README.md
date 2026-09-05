@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="./assets/mirror-illusion-character.png" width="420">
+<img src="mirror-illusion-character.png" width="420">
 
 <br>
 
